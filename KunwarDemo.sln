@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KunwarDemo", "KunwarDemo.csproj", "{57855559-9794-4580-98CC-67A07B7FCEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57855559-9794-4580-98CC-67A07B7FCEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57855559-9794-4580-98CC-67A07B7FCEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57855559-9794-4580-98CC-67A07B7FCEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57855559-9794-4580-98CC-67A07B7FCEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727382B4-FA53-4262-8263-FAA10FBD9FDB}
+	EndGlobalSection
+EndGlobal
